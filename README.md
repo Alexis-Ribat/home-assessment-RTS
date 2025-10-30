@@ -1,5 +1,8 @@
 # home-assessment-RTS
 
+/Analysis/
+  - RTS_TakeHome_Presentation_Alexis_Ribat.docx
+
 /data/
   - CSV Files : https://drive.google.com/drive/folders/1cltg5pwiwKDuAON5VWwnMkVP0K_KEQBK?usp=drive_link 
 
